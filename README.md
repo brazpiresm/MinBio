@@ -56,6 +56,3 @@ Generates the main text and SI figures. The script reads the model objects and s
 
 The analyses were conducted in R version 4.4.0 and were developed and tested on Windows 11.
 
-The R packages and package versions used for the analyses are reported in `sessionInfo.txt`.
-
-No non-standard hardware is required.
